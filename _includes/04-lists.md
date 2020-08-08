@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# My favorite hobbies
+- Play video games
+- Listen to music
+- Learning new programming languages, frameworks, databases, and etc.
