@@ -1,1 +1,16 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Techincal Skills
+## Programmning Languages
+- **HTML/CSS**
+- **Python**
+- **C++**
+- **JavaScript**
+
+## Datebases
+- **SQL**
+- **MySQL**
+
+## Command Line
+- **UNIX/Linux**
+
+# Previous Experience
+- I worked at a office at *Los Angeles Southwest College*.
